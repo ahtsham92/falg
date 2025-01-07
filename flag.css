@@ -1,0 +1,106 @@
+.f-1{
+    width: 500px;
+    height: 300px;
+   margin: auto;
+   background-color: bisque;
+    
+}
+.same1{
+    display: block;
+    background-color: rgb(160, 12, 12);
+    height: 100px;
+}
+.same2{
+    display: block;
+    background-color: rgb(61, 1, 159);
+    height: 100px;
+
+}
+.same3
+{
+    display: block;
+    background-color: rgb(221, 189, 28);
+    height: 100px;
+
+
+}
+.text{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    
+}
+
+
+
+/* Azarbijan */
+
+.f-2{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    
+}
+.same-1{
+    /* display: block; */
+    background-color: rgb(78, 145, 199);
+    /* height: 40px; */
+    margin-top: 28px;
+    height: 40px;
+}
+.same-2 {
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: px;
+
+
+}
+img{
+    width: 170px;
+    
+}
+.same-3
+{
+    display: block;
+    background-color: rgb(78, 145, 199);
+    height: 40px;
+}
+
+
+
+
+.main{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(223, 195, 195);
+}
+#top{
+    width: 500px;
+    height: 100px;
+    background-color: #ff9933;
+}
+#bottom{
+    width: 500px;
+    height: 100px;
+    background-color: #138808;
+}
+#mid{
+    width: 500px;
+    height: 100px;
+    background-color: #ffff;
+}
+.ashoka img{
+    width: 100px;
+    height: 100px;
+}
+.ashoka{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
