@@ -104,3 +104,59 @@ img{
     align-items: center;
     justify-content: center;
 }
+
+
+.m{
+    height: 350px;
+    width: 700px;
+    background-color: #003f15;
+
+}
+.n{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 37%;
+    left: 0%;
+}
+
+.o{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 47%;
+    left: 0%;
+}
+.p{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 57%;
+    left: 0%;
+}
+.q{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 67%;
+    left: 0%;
+}
+.r{
+    background-color: #ff9a00;
+    width: 350px;
+    height: 100px;
+    position: relative;
+    top: -23%;
+    left: 0%;
+}
+.s{
+    /* width: 350px;
+    height: 100px; */
+    position: relative;
+    left: 50%;
+    bottom: 57%;
+}
