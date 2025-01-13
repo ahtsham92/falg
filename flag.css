@@ -154,9 +154,9 @@ img{
     left: 0%;
 }
 .s{
-    /* width: 350px;
-    height: 100px; */
+   
     position: relative;
-    left: 50%;
-    bottom: 57%;
+    left: 60%;
+/*     bottom: 57%; */
+    bottom: 52%;
 }
